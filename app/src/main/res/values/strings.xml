@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">atv11ArmazenamentoInterno</string>
+    <string name="btnToggleN">Não</string>
+    <string name="btnToggleS">Sim</string>
+    <string name="togReceber"></string>
+    <string name="chkTodos">Todos os assuntos</string>
+    <string name="btnSalvar">Salvar</string>
 </resources>
