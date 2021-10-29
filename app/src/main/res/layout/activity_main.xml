@@ -12,13 +12,12 @@
         android:id="@+id/rcbDados"
         android:layout_width="160dp"
         android:layout_height="20dp"
-        android:text="Receber Dados" />
+        android:text="@string/txtReceber" />
 
     <ToggleButton
         android:id="@+id/togReceber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ToggleButton"
         android:textOff="@string/btnToggleN"
         android:textOn="@string/btnToggleS" />
 
@@ -26,13 +25,13 @@
         android:id="@+id/chkTodos"
         android:layout_width="203dp"
         android:layout_height="40dp"
-        android:text="@string/chkTodos" />
+        android:text="@string/txtTodosAssuntos" />
 
     <TextView
         android:id="@+id/txtNome"
         android:layout_width="89dp"
         android:layout_height="20dp"
-        android:text="Nome" />
+        android:text="@string/txtNome" />
 
     <EditText
         android:id="@+id/edtNome"
